@@ -1,6 +1,0 @@
-# Ignore vendor directory if present
-vendor/
-# Ignore any temporary files
-*.tmp
-# Ignore the built binary
-main

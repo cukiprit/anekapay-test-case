@@ -1,4 +1,4 @@
-package models
+package animal
 
 type Animal struct {
 	ID    int    `json:"id"`
